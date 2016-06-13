@@ -21,13 +21,12 @@
 
 $l['file_verification'] = ' Проверка файла';
 $l['checking'] = 'Проверяется...';
-$l['file_verification_message'] = 'This process will check all MyBB default files to check for validity. Press Yes to continue.<br /> <small>Please note, this process can not differentiate between custom modifications and actual corruption in files. Therefore you should take caution in reverting files this process returns as "corrupt".</small>';
+$l['file_verification_message'] = 'Этот процесс будет проверять все файлы MyBB по умолчанию для проверки достоверности. Нажмите Да, чтобы продолжить.<br /> <small>Обратите внимание, что этот процесс не может различать пользовательских модификаций и фактической коррупции в файлах. Поэтому вы должны принять с осторожность восстановление файлов, а этот процесс возвращается как "коррумпированный".</small>';
 $l['error_communication'] = 'Существует проблема обмена с MyBB сервером. Пожалуйста, повторите попытку через несколько минут.';
 $l['file'] = 'Файл';
-$l['no_corrupt_files_found'] = 'Congratulations! No corrupt files have been found on your installation.
-Поздравления! Поврежденных файлов в вашей установке найдено  не было.';
+$l['no_corrupt_files_found'] = 'Поздравления! Поврежденных файлов в вашей установке найдено  не было.';
 $l['found_problems'] = 'Найденные проблемы';
 $l['no_problems_found'] = 'Проблем не обнаружено';
-$l['changed'] = 'Изменено';
+$l['changed'] = 'Изменён';
 $l['missing'] = 'Отсутствует';
 $l['status'] = 'Статус';
