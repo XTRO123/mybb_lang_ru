@@ -1,1 +1,1 @@
-UPDATE `mybb_questions` SET `question` = 'Сколько будет 2 + 2 равно ?', `answer` = '4\nЧетыре' WHERE `mybb_questions`.`qid` = 1;
+UPDATE `yourprefix_questions` SET `question` = 'Сколько будет 2 + 2 равно ?', `answer` = '4\nЧетыре' WHERE `yourprefix_questions`.`qid` = 1;
