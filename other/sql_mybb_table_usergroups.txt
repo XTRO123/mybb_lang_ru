@@ -1,0 +1,14 @@
+UPDATE `yourprefix_usergroups` SET `title` = 'Гости', `description` = 'Группа по умолчанию всем посетителям, кто ещё пока на вошёл.', `usertitle` = 'незарегистрированный' WHERE `yourprefix_usergroups`.`gid` = 1;
+
+UPDATE `yourprefix_usergroups` SET `title` = 'Зарегистрированные', `description` = 'После регистрации все пользователи помещаются в эту группу по умолчанию.' WHERE `yourprefix_usergroups`.`gid` = 2;
+
+UPDATE `yourprefix_usergroups` SET `title` = 'Главные Модераторы', `description` = 'Эти пользователи могут модерировать любой форум.', `usertitle` = 'Главный-модератор' WHERE `yourprefix_usergroups`.`gid` = 3;
+
+UPDATE `yourprefix_usergroups` SET `title` = 'Администраторы', `description` = 'Группа, к которой принадлежат все администраторы .', `usertitle` = 'Администратор' WHERE `yourprefix_usergroups`.`gid` = 4;
+
+UPDATE `yourprefix_usergroups` SET `title` = 'Ожидающие активации', `description` = 'Пользователи, которые ещё не активировали свою учетную запись по email или их аккаунт ещё не был активирован вручную.', `usertitle` = 'Аккаунт не активирован' WHERE `yourprefix_usergroups`.`gid` = 5;
+
+UPDATE `yourprefix_usergroups` SET `title` = 'Модераторы', `description` = 'Эти пользователи модерируют конкретные форумы.', `usertitle` = 'Модератор' WHERE `yourprefix_usergroups`.`gid` = 6;
+
+UPDATE `yourprefix_usergroups` SET `title` = 'Забаненные', `description` = 'Группа пользователей по умолчанию, в которою переносятся забаненнные участники.', `usertitle` = 'Забаненный' WHERE `yourprefix_usergroups`.`gid` = 7;
+
