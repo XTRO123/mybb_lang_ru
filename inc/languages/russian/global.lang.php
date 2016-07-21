@@ -369,7 +369,7 @@ $l['mybb_engine'] = 'MyBB движок';
 $l['quickdelete_confirm'] = 'Вы уверены, что хотите удалить эту запись?';
 $l['quickrestore_confirm'] = 'Вы уверены, что хотите восстановить этот пост?';
 $l['newpm_notice_one'] = '<strong>У вас есть одно непрочитанное личное сообщение</strong> из {1} с названием <a href="{2}/private.php?action=read&amp;pmid={3}" style="font-weight: bold;">{4}</a>';
-$l['newpm_notice_multiple'] = '<strong>У вас есть {1}  непрочитанных личных сообщений.</strong> Самая последняя из {2} с названием<a href="{3}/private.php?action=read&amp;pmid={4}" style="font-weight: bold;">{5}</a>';
+$l['newpm_notice_multiple'] = '<strong>У вас есть {1}  непрочитанных личных сообщений.</strong> Самое последнее от {2} с темой <a href="{3}/private.php?action=read&amp;pmid={4}" style="font-weight: bold;">{5}</a>';
 $l['deleteevent_confirm'] = 'Вы уверены, что хотите удалить это событие?';
 $l['removeattach_confirm'] = 'Вы уверены, что хотите удалить выбранное вложение из этого поста?';
 $l['latest_threads'] = 'Последние темы';
