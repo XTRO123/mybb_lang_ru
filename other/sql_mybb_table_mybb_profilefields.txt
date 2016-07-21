@@ -1,0 +1,3 @@
+UPDATE `yourprefix_profilefields` SET `name` = 'Местонахождение', `description` = 'Где вы проживаете?' WHERE `yourprefix_profilefields`.`fid` = 1;
+UPDATE `yourprefix_profilefields` SET `name` = 'Биография', `description` = 'Введите несколько кратких подробностей о себе, из вашей истории жизни и т.д.' WHERE `yourprefix_profilefields`.`fid` = 2;
+UPDATE `yourprefix_profilefields` SET `name` = 'Пол ', `description` = 'Пожалуйста, выберите пол из списка ниже.', `type` = 'select\nне указан\nмуж\nжен\nдр' WHERE `yourprefix_profilefields`.`fid` = 3;
