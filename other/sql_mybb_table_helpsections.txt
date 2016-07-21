@@ -1,0 +1,2 @@
+UPDATE `yourprefix_helpsections` SET `name` = 'Обслуживание пользователя', `description` = 'Основные инструкции для поддержки учетной записи на форуме.' WHERE `yourprefix_helpsections`.`sid` = 1;
+UPDATE `yourprefix_helpsections` SET `name` = 'Публикация', `description` = 'Публикация, ответы, и базовое использование форума.' WHERE `yourprefix_helpsections`.`sid` = 2;
