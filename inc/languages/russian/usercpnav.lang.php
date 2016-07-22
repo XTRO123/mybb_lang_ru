@@ -21,8 +21,8 @@
 
 $l['ucp_nav_width'] = '180';
 $l['ucp_nav_menu'] = 'Меню';
-$l['ucp_nav_messenger'] = 'Messenger';
-$l['ucp_nav_compose'] = 'Compose';
+$l['ucp_nav_messenger'] = 'Переписка';
+$l['ucp_nav_compose'] = 'Написать ЛС';
 $l['ucp_nav_tracking'] = 'Отслеживание';
 $l['ucp_nav_edit_folders'] = 'Редактировать папки';
 $l['ucp_nav_profile'] = 'Ваш профиль';
@@ -42,6 +42,6 @@ $l['ucp_nav_drafts'] = 'Сохранить черновик';
 $l['ucp_nav_drafts_active'] = '<strong>Черновик сохранён({1})</strong>';
 $l['ucp_nav_notepad'] = 'Personal Pad';
 $l['ucp_nav_view_profile'] = 'Просмотр профиля';
-$l['ucp_nav_home'] = 'Контр.панель пользователя';
+$l['ucp_nav_home'] = 'Панель управления пользователя';
 $l['ucp_nav_usergroups'] = 'Членство в группах';
 $l['ucp_nav_attachments'] = 'Управление вложениями';
