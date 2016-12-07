@@ -9,7 +9,7 @@ $langinfo['author'] = "Victor Efremov aka xtro";
 $langinfo['website'] = "http://runetcms.ru/";
 
 // Compatible version of MyBB
-$langinfo['version'] = "1807";
+$langinfo['version'] = "1808";
 
 // Sets if the translation includes the Admin CP (1 = yes, 0 = no)
 $langinfo['admin'] = 1;
