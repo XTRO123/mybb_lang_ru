@@ -46,8 +46,8 @@ $l['multiquote_external_one'] = 'Вы выбрали одно сообщение
 $l['multiquote_external'] = 'Вы выбрали {1} сообщений из другой темы.';
 $l['multiquote_external_one_deselect'] = 'отменить выбор этого сообщения';
 $l['multiquote_external_deselect'] = 'отменить выбор этих сообщений';
-$l['multiquote_external_one_quote'] = 'Quote this post too';
-$l['multiquote_external_quote'] = 'Quote these posts too';
+$l['multiquote_external_one_quote'] = 'Цитировать это сообщение';
+$l['multiquote_external_quote'] = 'Цитировать эти сообщения';
 $l['redirect_newthread'] = 'Спасибо, ваша тема была размещена.';
 $l['redirect_newthread_poll'] = '<br />Сейчас вы будете перенаправлены к настройке опроса и странице конфигурации.';
 $l['redirect_newthread_moderation'] = '<br />Администрацией установлено модерирование новых тем. Сейчас вы будете перенаправлены к списку тем.';
@@ -55,8 +55,8 @@ $l['redirect_newthread_unviewable'] = '<br />У вас нет прав для п
 $l['redirect_newthread_thread'] = '<br />Теперь вы будете перенаправлены в новую тему.';
 $l['invalidthread'] = 'Указанный черновик не существует или у вас нет разрешения на просмотр.';
 $l['error_stop_forum_spam_spammer'] = 'К сожалению, ваш {1} соответстует данным известного спамера. Если вы уверены что это ошибка, обратитесь к администратору';
-$l['error_stop_forum_spam_fetching'] = 'Извините, что-то не получилось проврить по базе данных спамеров. Скорее всего база данных не  доступна. Пожалуйста, повторите попытку позже.';
-$l['error_suspendedposting'] = 'Ваши привилегии публикации в настоящее время приостановлено {1}.<br /><br />
+$l['error_stop_forum_spam_fetching'] = 'Извините, не получилось проверить по базе данных спамеров. Скорее всего база данных не  доступна. Пожалуйста, повторите попытку позже.';
+$l['error_suspendedposting'] = 'Ваши полномочия для публикации в настоящее время приостановлены {1}.<br /><br />
 
 Дата приостановки: {2}';
 $l['error_suspendedposting_temporal'] = 'до {1}';
